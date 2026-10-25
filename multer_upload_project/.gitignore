@@ -1,0 +1,9 @@
+node_modules/
+test.jpg
+test.txt
+uploads/avatars/*
+!uploads/avatars/.gitkeep
+uploads/documents/*
+!uploads/documents/.gitkeep
+uploads/temp/*
+!uploads/temp/.gitkeep

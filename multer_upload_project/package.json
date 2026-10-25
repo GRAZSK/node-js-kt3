@@ -1,0 +1,14 @@
+{
+  "name": "multer-file-upload-lab",
+  "version": "1.0.0",
+  "description": "Express and Multer file upload lab",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^2.0.2"
+  }
+}
